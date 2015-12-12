@@ -1,0 +1,172 @@
+.Web_OnlineTools_Logo{
+
+		background-color:#e5e5e5;
+		margin-bottom:20px;
+
+}
+.Web_OnlineTools_Logo h1{
+
+		border:0px;margin:0px;padding:0px;
+
+		text-align:center;
+
+		text-indent:21px;
+
+		font-size:80px;
+
+		line-height:76px;
+
+		font-family:Trebuchet MS;
+
+		color:#000000;
+
+		font-weight:bold;
+
+		text-shadow:-2px 2px 10px #000000; 
+
+
+}
+
+.Web_OnlineTools_Logo h2{		
+
+		border:0px;margin:0px;padding:0px;
+
+		text-align:center;
+
+		text-indent:29px;
+
+		font-size:26px;
+
+		line-height:61px;
+
+		font-family:Trebuchet MS;
+
+		color:#000000;
+
+		font-weight:normal;
+
+		text-shadow:0px 0px 0px #000000; 
+
+
+}
+
+#Logout{
+	
+	padding-left:25px;
+	padding-top:2px;
+	border-radius: 10px;
+	box-shadow: rgba(0,0,0,0.8) 0 0 10px;
+	font-family: Trebuchet MS;
+
+}
+
+#Thermostat:hover{
+	background-color:#66FF33;
+	cursor: pointer;
+	cursor: hand;
+}
+
+#switch:hover{
+	background-color:#66FF33;
+	cursor: pointer;
+	cursor: hand;
+}
+
+#Logout:hover{
+	background-color:#66FF33;
+	cursor: pointer;
+	cursor: hand;
+}
+
+#Camera:hover{
+	background-color:#66FF33;
+	cursor: pointer;
+	cursor: hand;
+}
+
+#Radar:hover{
+	background-color:#66FF33;
+	cursor: pointer;
+	cursor: hand;
+}
+
+#clock{
+	padding-top:7px;
+	float:right;
+	pointer-events: none;
+	cursor: default;
+	
+}
+
+#Name{
+
+	font-family:Trebuchet MS;
+	color:#0066FF;
+	font-variant: small-caps; 
+	text-transform: none; 
+	font-weight: 100; 
+	margin-bottom: 0;
+	font-size:50px;
+}
+
+#Wlcm{
+	
+	font-family:Trebuchet MS;
+	color:#4E443C;
+	font-variant: small-caps; 
+	text-transform: none; 
+	font-weight: 100; 
+	margin-bottom: 0;
+	font-size:50px;
+	
+}
+
+#MenuLayer{
+	padding-top:3%;
+}
+
+#switch{
+	
+	height:100px;
+	width:250px;
+	border-radius: 10px;
+	box-shadow: rgba(0,0,0,0.8) 0 0 10px;
+
+}
+
+#Thermostat{
+	
+	height:100px;
+	width:250px;
+	border-radius: 10px;
+	box-shadow: rgba(0,0,0,0.8) 0 0 10px;
+
+}
+
+#Radar{
+	
+	height:100px;
+	width:250px;
+	border-radius: 10px;
+	box-shadow: rgba(0,0,0,0.8) 0 0 10px;
+
+}
+
+#Camera{
+
+	height:100px;
+	width:250px;
+	border-radius: 10px;
+	box-shadow: rgba(0,0,0,0.8) 0 0 10px;
+
+}
+
+#pcommon{
+
+	letter-spacing: 1px;
+	text-align:center;
+	font-family: Trebuchet MS;
+	font-size:x-large;
+	font-weight:700;
+
+}

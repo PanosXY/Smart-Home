@@ -1,0 +1,65 @@
+.Web_OnlineTools_Logo{
+
+		background-color:#e5e5e5;
+
+}
+.Web_OnlineTools_Logo h1{
+
+		border:0px;margin:0px;padding:0px;
+
+		text-align:center;
+
+		text-indent:21px;
+
+		font-size:80px;
+
+		line-height:76px;
+
+		font-family:Trebuchet MS;
+
+		color:#000000;
+
+		font-weight:bold;
+
+		text-shadow:-2px 2px 10px #000000; 
+
+
+}
+
+.Web_OnlineTools_Logo h2{		
+
+		border:0px;margin:0px;padding:0px;
+
+		text-align:center;
+
+		text-indent:29px;
+
+		font-size:26px;
+
+		line-height:61px;
+
+		font-family:Trebuchet MS;
+
+		color:#000000;
+
+		font-weight:normal;
+
+		text-shadow:0px 0px 0px #000000; 
+
+
+}
+
+
+#Logo{
+
+	width:100%;
+
+}
+
+
+#LoginLayer{
+	
+	padding-top:10%;
+
+}
+
